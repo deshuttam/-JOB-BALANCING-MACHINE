@@ -22,3 +22,12 @@ The schematic shown in figure 4.2 gives a visual of how the LM35 temperature sen
 The diagram shown below is a pictorial representation of the final user interface with which the operator interacts.
 
 ![image](https://user-images.githubusercontent.com/107185323/199002226-19760b2a-8086-4111-a3b3-2e3db842b773.png)
+
+
+Requirements: Software
+* Microvsion Keil
+* Proteus Design Suite
+
+Hardware 
+* LPC2148
+* PIC Microcontroller
