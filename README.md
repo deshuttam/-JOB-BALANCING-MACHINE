@@ -31,3 +31,7 @@ Requirements: Software
 Hardware 
 * LPC2148
 * PIC Microcontroller
+
+## Usage
+The control unit increases the life of the motor in the job balancing machine and decreases the cost of maintenance of the machine. Various factors like the speed of rotation of motor and its temperature govern its working life and also the wear and tear of different components of the machine. By monitoring these two variables continuously and taking steps like halting the machine before there is wear and tear greatly reduces the maintenance of the machine. By using cost effective solutions like the LPC2148 board and easily available and cheap but effective sensor like LM35 the overall budget of the project has been very competitive compared to other already existing solutions. Using LPC board has the added advantage of low power consumption hence cutting down on the power supply charges required to run the 
+controller. 
